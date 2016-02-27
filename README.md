@@ -1,2 +1,5 @@
 # hello-world
-First test repository
+
+Let's write some text about this repository!
+And bla-bla-bla!
+
